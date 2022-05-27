@@ -1,4 +1,10 @@
 hiiiehdbd
+<<<<<<< HEAD
 a
 s
 d
+=======
+q
+w
+e
+>>>>>>> movies
